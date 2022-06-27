@@ -4,7 +4,7 @@ This python script will download pictures from defined subreddits.
 To run on Windows:
 1. download and install Python 3.9 from https://www.python.org/downloads/release/python-390/
 2. Clone the repo
-2. Hold down Shift and right click in the folder with the files and open Command Prompt
+2. Hold down Shift and right click in the folder where the .py files are and open Command Prompt
 4. Install requests by doing the following command ```pip install requests```
 5. When its installed you can now run the script by typing ```python Hent@i.py```
 To stop the script press Ctrl + C  
