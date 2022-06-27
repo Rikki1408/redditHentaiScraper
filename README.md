@@ -11,5 +11,5 @@ To run on Windows:
 How to add more subreddits
 1. Copy the template.py file and name it the name of the subreddit.
 2. Replace the replaceme on line 4 in the file with the name of the subreddit.
-3. Open Hent<nolink>@<nolink>i.py and op in the top you find some import functions, add another one with the name of the subreddit.
+3. Open Hent<nolink>@<nolink>i.py and up in the top you find some import functions, add another one with the name of the subreddit.
 4. Near the bottom you also add in a new getData like the others have.
