@@ -1,4 +1,4 @@
-# Hent\@i.py [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](hhttps://www.python.org/downloads/release/python-390//)
+# Hent<nolink>@<nolink>i.py [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](hhttps://www.python.org/downloads/release/python-390//)
 This python script will download pictures form defined subreddits  
   
 To add more subreddits to download from
